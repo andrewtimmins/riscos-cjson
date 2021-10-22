@@ -1,0 +1,4 @@
+Dir <Obey$Dir>
+WimpSlot -Min 65536
+amu all_libs THROWBACK=-throwback -f MakeLib
+amu all_libs THROWBACK=-throwback -f MakeULib

@@ -1,0 +1,11 @@
+# Makefile for cJSON Utils Library
+
+COMPONENT   = cJSONUtils
+OBJS        = cJSONULib
+CUSTOMRES   = no
+LIBS        =
+CFLAGS      =
+
+include CLibrary
+
+# Dynamic dependencies:

@@ -1,0 +1,5 @@
+Dir <Obey$Dir>
+amu clean -f MakeLib
+amu clean -f MakeULib
+stripdepnd MakeLib
+stripdepnd MakeULib

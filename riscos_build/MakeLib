@@ -1,0 +1,11 @@
+# Makefile for cJSON Library
+
+COMPONENT   = cJSON
+OBJS        = cJSONLib
+CUSTOMRES   = no
+LIBS        =
+CFLAGS      =
+
+include CLibrary
+
+# Dynamic dependencies:
