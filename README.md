@@ -2,6 +2,8 @@
 
 Ultralightweight JSON parser in ANSI C.
 
+Acorn / RISC OS Open DDE 29a or greater required to build (may work on older versions, but built against this release). 
+
 ## Table of contents
 * [License](#license)
 * [Usage](#usage)
